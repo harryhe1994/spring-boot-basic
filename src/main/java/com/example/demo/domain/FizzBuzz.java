@@ -4,6 +4,8 @@ public class FizzBuzz {
     public static final String FIZZ = "Fizz";
     public static final String BUZZ = "Buzz";
     public static final String FIZZ_BUZZ = "FizzBuzz";
+
+    //test
     public static String fizzBuzz(int number){
         if (number % 3 == 0 && number % 5 == 0){
             return FIZZ_BUZZ;
