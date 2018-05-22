@@ -1,6 +1,7 @@
 package com.example.demo.domain;
 
 public class Fibonacci {
+    
     private Fibonacci(){}
     public static int of(int num) {
         if(num > 2) {
